@@ -1,4 +1,4 @@
-FROM circleci/ruby:2.3-jessie-node-browsers
+FROM circleci/ruby:2.6-stretch-node-browsers-legacy
 LABEL maintainer Donny Kurnia <donnykurnia@gmail.com>
 
 USER root
