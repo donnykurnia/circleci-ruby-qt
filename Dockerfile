@@ -1,4 +1,4 @@
-FROM circleci/ruby:2.5.9-stretch-node-browsers-legacy
+FROM circleci/ruby:2.6.7-stretch-node-browsers-legacy
 LABEL maintainer Donny Kurnia <donnykurnia@gmail.com>
 
 USER root
